@@ -42,7 +42,7 @@
     "strict-uri-encode": "^2.0.0",
     "asciiart": "^1.0.0",
     "fs": "^0.0.2",
-    "rimraf": "^2.6.2",
+    "rimraf": "^3.0.2",
     "gif-search": "^2.0.1",
     "mathjs": "^5.2.1",
     "request-promise-native": "^1.0.5",
