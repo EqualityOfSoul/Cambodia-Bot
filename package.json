@@ -62,7 +62,7 @@
     "fs-nextra": "^0.3.7",
     "idiotic-api": "^0.2.11",
     "libsodium-wrappers": "^0.7.3",
-    "node": "^10.12.0",
+    "node": "^14.13.0",
     "opusscript": "^0.0.6",
     "sodium": "^2.0.3",
     "uws": "^99.0.0",
