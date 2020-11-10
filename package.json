@@ -44,7 +44,7 @@
     "fs": "^0.0.2",
     "rimraf": "^2.6.2",
     "gif-search": "^2.0.1",
-    "mathjs": "^5.2.1",
+    "mathjs": "^8.0.1",
     "request-promise-native": "^1.0.5",
     "canvas-constructor": "^1.1.2",
     "path": "^0.12.7",
